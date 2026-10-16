@@ -81,6 +81,7 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 - [Peaceful Parenting](https://www.ahaparenting.com/) - A collection of articles for every age, some paid content. I haven't investigated the paid content.
 - [Reddit - Parenting](https://www.reddit.com/r/Parenting/) - The Parenting Subreddit, the wiki and recommended reading are useful here.
 - [Free Parenting Tools](https://twiggly.app/tools/) - Free, no-signup web tools for chores, rewards, and age-readiness. Printable.
+- [Printable Baby Celebration Games](https://chinesegenderpredictor.net/gender-reveal-games/) - Five free activities for baby showers and gender reveals, with original A4 and US Letter PDFs and host instructions. PDFs are for personal, noncommercial use; no sign-up required.
 
 ### Platforms
 - [parenting.stackexchange.com](https://parenting.stackexchange.com/)
